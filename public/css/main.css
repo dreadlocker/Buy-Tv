@@ -1,0 +1,57 @@
+body {
+    margin: 1rem;
+    background-color: #E9EBEE;
+}
+
+.m-right {
+    margin-right: 1rem;
+}
+
+img {
+    height: 25rem;
+    width: 25rem;
+}
+
+ul {
+    list-style: none;
+    margin-left: 0rem;
+    padding-left: 0rem;
+}
+
+.pull-left {
+    margin-right: 1rem;
+}
+
+.btn-link {
+    padding-left: 0;
+}
+
+.wrapper {
+    padding: 1rem;
+    width: 40rem;
+    height: 44rem;
+    border: 0.3rem solid #a4c4f4;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    background-color: white;
+}
+
+.btnAdd {
+    position: absolute;
+    right: 0;
+    bottom: 0.3rem;
+}
+
+li.button {
+    margin-top: 1.2rem;
+    margin-left: 1rem;
+}
+
+li.buttonb {
+    margin-top: 1.5rem;
+    margin-left: 1.3rem;
+}
+
+span.glyphicon {
+    padding-right: 0.5rem;
+}
